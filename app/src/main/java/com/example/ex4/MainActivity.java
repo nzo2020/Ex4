@@ -84,6 +84,8 @@ public class MainActivity extends AppCompatActivity {
     }
     public void clicked2(View view) {
 
+
+
         String st = editTextNumber.getText().toString();
         answer1 = Integer.parseInt(st);
 
