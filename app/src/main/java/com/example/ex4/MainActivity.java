@@ -89,8 +89,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
-
         String st = editTextNumber.getText().toString();
         answer1 = Integer.parseInt(st);
 
